@@ -173,7 +173,8 @@ span {
 .imgforintragram {
   display: flex;
   height: 350px;
-  justify-content: space-around;
+  gap: 10px;
+ justify-content: center;
   align-items: center;
 }
 
