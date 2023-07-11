@@ -163,18 +163,21 @@ span {
     padding-bottom: 50px;
 }
 
-.instagrampic{
-    display: flex;
 
-   
-    
-
-}
 .instagramcentar{
     display: flex;
     gap: 10px;
-    margin: 15px 60px 0 50px;
+  
+    align-items: center;
     
+}
+.instagrampic{
+margin-left: 100px;
+margin-right: 50px;
+}
+.instagramimg{
+    align-items: center;
+    display: flex;
 }
 .thelatestdeals{
     background-image:url("../Assets/Rectangle\ 9.png");
