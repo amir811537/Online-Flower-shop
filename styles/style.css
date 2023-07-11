@@ -1,6 +1,5 @@
-
-*{
-    font-family: 'Lato', sans-serif;
+* {
+  font-family: "Lato", sans-serif;
 }
 body {
   margin: 0;
@@ -75,7 +74,7 @@ p {
   display: flex;
   justify-content: space-between;
 }
-.linkFlower{
+.linkFlower {
   color: black;
 }
 
@@ -102,12 +101,6 @@ p {
 }
 .thirdBox {
   background: rgba(71, 125, 17, 0.15);
-}
-
-.boxImg {
-  height: 350px;
-  display: flex;
-  align-self: flex-end;
 }
 
 .deliveryContent {
@@ -165,68 +158,58 @@ span {
 .des {
   color: rgba(39, 39, 39, 0.6);
 }
-.instagram{
-    margin-top: 70px;
-    padding-bottom: 50px;
+.instagram {
+  margin-top: 70px;
+  padding-bottom: 50px;
+}
+.boxImg {
+  height: 350px;
 }
 
-
-.instagramcentar{
-    display: flex;
-    
-    align-items: center;
-    
+.marginboth {
+  margin-left: 50px;
+  margin-right: 50px;
 }
-.instagrampic{
-margin-left: 100px;
-margin-right: 50px;
-}
-.instagramimg{
-    align-items: center;
-    display: flex;
-    gap: 10px;
-  
-}
-.thelatestdeals{
-    background-image:url("../Assets/Rectangle\ 9.png");
-    background-repeat: no-repeat;
-    margin-top: 100px;
-    padding-bottom: 70px;
- background-size: cover;
- height: 200px;
- margin-left: 150px;
- margin-top: 30px;
- margin-right: 150px;
- text-align: center;
-
-
-}
-.title2{
-    text-align: center;
-
-}
-.formtextcolor{
-
-    color: rgba(39, 39, 39, 0.60);
-width: 600px;
-height: 50px;
-border-radius: none;
-
+.imgforintragram {
+  display: flex;
+  height: 350px;
+  justify-content: space-around;
+  align-items: center;
 }
 
-
-
-.footerbackgroundcolor{
-    background-color: #111010;
-    
-    margin-top: 70px;
-    padding-bottom: 50px;
-    justify-content: center;
-    text-align: center;
+.thelatestdeals {
+  background-image: url("../Assets/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  padding-bottom: 70px;
+  background-size: cover;
+  height: 200px;
+  margin-left: 150px;
+  margin-top: 30px;
+  margin-right: 150px;
+  text-align: center;
 }
-.footerdes{
-color: rgba(255, 255, 255, 0.90);
+.title2 {
+  text-align: center;
 }
-.span1{
-    color: white;
+.formtextcolor {
+  color: rgba(39, 39, 39, 0.6);
+  width: 600px;
+  height: 50px;
+  border-radius: none;
+}
+
+.footerbackgroundcolor {
+  background-color: #111010;
+
+  margin-top: 70px;
+  padding-bottom: 50px;
+  justify-content: center;
+  text-align: center;
+}
+.footerdes {
+  color: rgba(255, 255, 255, 0.9);
+}
+.span1 {
+  color: white;
 }
