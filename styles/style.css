@@ -166,8 +166,7 @@ span {
 
 .instagramcentar{
     display: flex;
-    gap: 10px;
-  
+    
     align-items: center;
     
 }
@@ -178,6 +177,8 @@ margin-right: 50px;
 .instagramimg{
     align-items: center;
     display: flex;
+    gap: 10px;
+  
 }
 .thelatestdeals{
     background-image:url("../Assets/Rectangle\ 9.png");
