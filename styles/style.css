@@ -75,6 +75,9 @@ p {
   display: flex;
   justify-content: space-between;
 }
+.linkFlower{
+  color: black;
+}
 
 .flowerBoxContainer {
   height: 400px;
